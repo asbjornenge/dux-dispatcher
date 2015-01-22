@@ -1,0 +1,22 @@
+{
+  "name": "dux-dispatcher",
+  "version": "1.0.0",
+  "description": "A Dispatcher for Dux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/asbjornenge/dux-dispatcher.git"
+  },
+  "author": "Asbjorn Enge <asbjorn@hanafjedle.net>",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/asbjornenge/dux-dispatcher/issues"
+  },
+  "homepage": "https://github.com/asbjornenge/dux-dispatcher",
+  "dependencies": {
+    "faye": "^1.1.0"
+  }
+}
