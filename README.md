@@ -9,10 +9,6 @@ This Dispatcher uses [Faye](http://faye.jcoglan.com/) to distribute messages.
 ## RUN
 
     docker run -d asbjornenge/dux-dispatcher
+        --port <number>  // Port number for faye (default 8000)
 
-## Options
-
-    --port <number>  // Port number for faye (default 8000)
-
-## Changelog 
-
+enjoy
